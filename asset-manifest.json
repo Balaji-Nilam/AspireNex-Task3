@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AspireNex-Task3/static/css/main.2d95290d.css",
+    "main.js": "/AspireNex-Task3/static/js/main.d16b36ba.js",
+    "static/js/453.a6a97343.chunk.js": "/AspireNex-Task3/static/js/453.a6a97343.chunk.js",
+    "index.html": "/AspireNex-Task3/index.html",
+    "main.2d95290d.css.map": "/AspireNex-Task3/static/css/main.2d95290d.css.map",
+    "main.d16b36ba.js.map": "/AspireNex-Task3/static/js/main.d16b36ba.js.map",
+    "453.a6a97343.chunk.js.map": "/AspireNex-Task3/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d95290d.css",
+    "static/js/main.d16b36ba.js"
+  ]
+}
